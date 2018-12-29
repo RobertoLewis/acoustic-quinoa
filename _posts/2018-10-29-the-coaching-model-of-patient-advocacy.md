@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  The Coaching Model of Patient Advocacy
+title:  "The Coaching Model of Patient Advocacy"
 author: Roberto Lewis
-category: blog post
-img: 
+categories: [blog]
+image:
+featured: true
 ---
 
 **The Coaching Model of Patient Advocacy**
