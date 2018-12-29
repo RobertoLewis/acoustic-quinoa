@@ -3,7 +3,7 @@ layout: post
 title:  Local, Organic Apples for Fall
 author: Roberto Lewis
 categories: [blog]
-image:
+image: assets/images/apples-1.jpg
 featured: true
 ---
 
