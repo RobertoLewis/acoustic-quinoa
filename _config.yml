@@ -11,14 +11,14 @@ mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  roberto:
+    name: Roberto Lewis
+    display_name: Roberto Lewis
+    gravatar: 
+    email: mail@robertolewis.com
+    web: 
+    twitter: 
+    description: "Detail-oriented marketing professional with eleven years of experience specializing in writing, editing, and presentation."
   john:
     name: John
     display_name: John
