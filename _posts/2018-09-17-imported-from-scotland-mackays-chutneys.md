@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Imported from Scotland: Mackays' Chutneys"
-author: Roberto Lewis
+author: roberto
 categories: [blog]
 image: assets/images/CHEE_GROUP_Scotland_FAW_2018-02.jpg
 featured: false
 ---
+A blog post for Bristol Farms.
 
 **Imported from Scotland: Mackays' Chutneys**
 
