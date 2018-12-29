@@ -3,7 +3,7 @@ layout: post
 title:  "Provolone Rediscovered: Don Giovanni Auricchio's Secret Recipe"
 author: Roberto Lewis
 categories: [blog, food]
-image: 
+image: assets/images/CHEE_GROUP_Charcuterie_Italy_FAW_2018-03.jpg
 featured: true
 ---
 
