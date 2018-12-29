@@ -4,7 +4,7 @@ title:  Local, Organic Apples for Fall
 author: Roberto Lewis
 categories: [blog]
 image: assets/images/apples-1.jpg
-featured: true
+featured: false
 ---
 
 **[Local, Organic Apples for Fall][id]**
