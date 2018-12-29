@@ -2,8 +2,9 @@
 layout: post
 title:  Local, Organic Apples for Fall
 author: Roberto Lewis
-category: blog post
-img: 
+categories: [blog]
+image:
+featured: true
 ---
 
 **[Local, Organic Apples for Fall][id]**
