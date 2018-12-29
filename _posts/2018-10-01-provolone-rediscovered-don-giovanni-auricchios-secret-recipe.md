@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Provolone Rediscovered: Don Giovanni Auricchio's Secret Recipe"
-author: Roberto Lewis
+author: roberto
 categories: [blog, food]
 image: assets/images/CHEE_GROUP_Charcuterie_Italy_FAW_2018-03.jpg
 featured: true
 ---
+A blog post for Bristol Farms.
 
 **[Provolone Rediscovered: Don Giovanni Auricchio's Secret Recipe][id]**
 
