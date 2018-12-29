@@ -7,8 +7,6 @@ image:
 featured: true
 ---
 
-**The Coaching Model of Patient Advocacy**
-
 Dealing with an illness is one of the most frightening situations a person can face. Though we experience the world through our bodies, the details of how they function are largely mysterious to us. When our bodies refuse to behave as they should, we feel an uncertainty about our lives that can easily change into panic and despair. The decisions we make about our health are of critical importance, and when our bodies have been weakened, our problem-solving skills are also weakened, just when we need them most.
 
 Navigating the modern health care bureaucracy requires knowledge that most people don’t have. When we take on the role of a health advocate for a patient in need, our job is to educate them about the obstacles they face, to engage them in discussion to determine their needs and to empower them to make the best decisions about their own care. We are not there to represent or make choices for our patients, but rather to help them find the tools they need to reassert control over their lives.  
