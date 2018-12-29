@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  Hello, October - Here's Our Five Fall Must Haves
-author: Roberto Lewis
+author: roberto
 categories: [blog]
 image: assets/images/ThinkstockPhotos-859894222-768x512.jpg
 featured: false
 ---
+A blog post for Bristol Farms.
 
 [**Hello, October: Here's Our Five Fall Must Haves**][id]
 
