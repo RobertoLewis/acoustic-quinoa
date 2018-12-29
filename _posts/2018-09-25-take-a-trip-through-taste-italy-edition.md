@@ -3,7 +3,7 @@ layout: post
 title: "Take a Trip Through Taste: Italy Edition"
 author: Roberto Lewis
 categories: [blog]
-image:
+image: assets/images/CHEE_GROUP_Charcuterie_Italy_FAW_2018-03.jpg
 featured: true
 ---
 
