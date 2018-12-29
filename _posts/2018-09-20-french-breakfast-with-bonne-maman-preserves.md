@@ -4,7 +4,7 @@ title: "French Breakfast With Bonne Maman Preserves"
 author: Roberto Lewis
 categories: [blog]
 image: assets/images/BFPVL_GROC_Honey_2018-18.jpg
-featured: true
+featured: false
 ---
 
 **French Breakfast With Bonne Maman Preserves**
