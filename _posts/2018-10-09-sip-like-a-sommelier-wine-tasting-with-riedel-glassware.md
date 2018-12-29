@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  Sip Like A Sommelier - Wine Tasting with Riedel Glassware
-author: Roberto Lewis
+author: roberto
 categories: [blog]
 image: assets/images/Wine-hands-and-glasses-.jpg
 featured: false
 ---
+A blog post for Bristol Farms.
 
 **[Sip Like A Sommelier: Wine Tasting with Riedel Glassware][id]**
 
