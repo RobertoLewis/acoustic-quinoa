@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  Local, Organic Apples for Fall
-author: Roberto Lewis
+author: roberto
 categories: [blog]
 image: assets/images/apples-1.jpg
 featured: false
 ---
+A blog post for Bristol Farms.
 
 **[Local, Organic Apples for Fall][id]**
 
