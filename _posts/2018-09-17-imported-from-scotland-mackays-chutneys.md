@@ -3,7 +3,7 @@ layout: post
 title: "Imported from Scotland: Mackays' Chutneys"
 author: Roberto Lewis
 categories: [blog]
-image:
+image: assets/images/CHEE_GROUP_Scotland_FAW_2018-02.jpg
 featured: true
 ---
 
