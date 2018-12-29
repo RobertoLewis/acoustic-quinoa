@@ -3,7 +3,7 @@ layout: post
 title: "French Breakfast With Bonne Maman Preserves"
 author: Roberto Lewis
 categories: [blog]
-image:
+image: assets/images/BFPVL_GROC_Honey_2018-18.jpg
 featured: true
 ---
 
