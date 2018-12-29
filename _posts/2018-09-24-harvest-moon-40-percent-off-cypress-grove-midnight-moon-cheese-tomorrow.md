@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Harvest Moon = 40% off Cypress Grove Midnight Moon Cheese Tomorrow!"
-author: Roberto Lewis
+author: roberto
 categories: [blog]
 image: assets/images/midnight-moon.jpg
 featured: false
 ---
+A blog post for Bristol Farms.
 
 **Harvest Moon = 40% off Cypress Grove Midnight Moon Cheese Tomorrow!**
 
