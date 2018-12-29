@@ -6,6 +6,7 @@ categories: [blog]
 image: assets/images/BFPVL_GROC_Honey_2018-18.jpg
 featured: true
 ---
+A blog post for Bristol Farms.
 
 **[It's Okay to Lick the Spoon: Our Very Own Southern California Local Raw Honey][id]**
 
