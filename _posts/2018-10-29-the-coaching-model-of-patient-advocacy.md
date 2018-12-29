@@ -6,7 +6,7 @@ categories: [blog]
 image:
 featured: true
 ---
-
+A blog post for Human Health Project
 **The Coaching Model of Patient Advocacy**
 
 Dealing with an illness is one of the most frightening situations a person can face. Though we experience the world through our bodies, the details of how they function are largely mysterious to us. When our bodies refuse to behave as they should, we feel an uncertainty about our lives that can easily change into panic and despair. The decisions we make about our health are of critical importance, and when our bodies have been weakened, our problem-solving skills are also weakened, just when we need them most.
