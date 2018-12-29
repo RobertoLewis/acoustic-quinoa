@@ -4,7 +4,7 @@ title: Artisan Vegan Pasta in Twenty Minutes With Tiberino One-Pot Pasta
 author: Roberto Lewis
 categories: [blog]
 image: assets/images/GROC_Pasta_Tiberino_FAW_2018-04.jpg
-featured: true
+featured: false
 ---
 
 **Artisan Vegan Pasta in Twenty Minutes With Tiberino One-Pot Pasta**
