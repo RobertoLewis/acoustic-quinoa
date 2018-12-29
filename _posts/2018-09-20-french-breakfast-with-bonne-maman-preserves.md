@@ -1,9 +1,10 @@
 ---
 layout: post
-title: French Breakfast With Bonne Maman Preserves
+title: "French Breakfast With Bonne Maman Preserves"
 author: Roberto Lewis
-category: blog post
-img: 
+categories: [blog]
+image:
+featured: true
 ---
 
 **French Breakfast With Bonne Maman Preserves**
