@@ -4,7 +4,7 @@ title:  Sip Like A Sommelier - Wine Tasting with Riedel Glassware
 author: Roberto Lewis
 categories: [blog]
 image: assets/images/Wine-hands-and-glasses-.jpg
-featured: true
+featured: false
 ---
 
 **[Sip Like A Sommelier: Wine Tasting with Riedel Glassware][id]**
