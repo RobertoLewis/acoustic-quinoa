@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Harvest Moon = 40% off Cypress Grove Midnight Moon Cheese Tomorrow!
+title: "Harvest Moon = 40% off Cypress Grove Midnight Moon Cheese Tomorrow!"
 author: Roberto Lewis
-category: blog post
-img: 
+categories: [blog]
+image:
+featured: true
 ---
 
 **Harvest Moon = 40% off Cypress Grove Midnight Moon Cheese Tomorrow!**
