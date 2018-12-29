@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Take a Trip Through Taste: Italy Edition"
-author: Roberto Lewis
+author: roberto
 categories: [blog]
 image: assets/images/CHEE_GROUP_Charcuterie_Italy_FAW_2018-03.jpg
 featured: true
 ---
+A blog post for Bristol Farms.
 
 **[Take a Trip Through Taste: Italy Edition][id]**
 
