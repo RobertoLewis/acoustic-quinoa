@@ -3,7 +3,7 @@ layout: post
 title: "Take a Trip Through Taste: Italy Edition"
 author: roberto
 categories: [blog]
-image: assets/images/CHEE_FAW_Italian-Charcuterie-2017-2
+image: assets/images/CHEE_FAW_Italian-Charcuterie-2017-2.jpg
 featured: true
 ---
 A blog post for Bristol Farms.
