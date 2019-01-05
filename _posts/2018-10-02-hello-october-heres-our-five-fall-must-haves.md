@@ -6,10 +6,6 @@ categories: [blog]
 image: assets/images/ThinkstockPhotos-859894222-768x512.jpg
 featured: false
 ---
-A blog post for Bristol Farms.
-
-[**Hello, October: Here's Our Five Fall Must Haves**][id]
-
 Summer is over, and Fall has arrived, bringing all sorts of exciting flavors and fun with it. Giant pumpkins perfect for your front door stoop, rich and delightfully sweet pumpkin pie topped with whipped cream and cinnamon, dark, full-bodied beers and spicy sausages, and of course, crisp autumn apples.
 
 **Pumpkins**
@@ -36,6 +32,8 @@ Pumpkin pie is an essential part of the fall flavor package. The textures of sof
 
 Sound good? We think so, too. That’s why we have all the ingredients you need to make your version of this legendary dessert. Or check out our bakery to get a taste of *our* pumpkin pie. We don’t mean to brag, but it’s *pretty* *amazing*.
 
-https://www.bristolfarms.com/blog/2018/10/hello-october-heres-our-five-fall-must-haves/
+[**Hello, October: Here's Our Five Fall Must Haves**][id]
+
+Originally published here: https://www.bristolfarms.com/blog/2018/10/hello-october-heres-our-five-fall-must-haves/
 
 [id]: https://www.bristolfarms.com/blog/2018/10/hello-october-heres-our-five-fall-must-haves/
