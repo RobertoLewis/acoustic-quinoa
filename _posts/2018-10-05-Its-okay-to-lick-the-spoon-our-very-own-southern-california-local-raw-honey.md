@@ -6,10 +6,6 @@ categories: [blog]
 image: assets/images/BFPVL_GROC_Honey_2018-18.jpg
 featured: true
 ---
-A blog post for Bristol Farms.
-
-**[It's Okay to Lick the Spoon: Our Very Own Southern California Local Raw Honey][id]**
-
 We are pleased to introduce our line of local, raw, unfiltered, and unprocessed cold-packed raw honey, drawn from the abundant flora of Southern California.  Cold packed by hand, our raw honey has a creamy texture that will not only entertain your taste buds but inspire you to include it in recipes as a handy, all-natural source of sweetness.
 
 **Southern California Orange Blossom**
@@ -32,6 +28,8 @@ Wildflower honey also contains trace amounts of pollen from a wide variety of So
 
 Drizzle some on your favorite artisan crusty bread, or eat it right off the spoon. We won't tell.
 
-https://www.bristolfarms.com/blog/2018/10/its-okay-to-lick-the-spoon-our-very-own-southern-california-local-raw-honey/
+**[It's Okay to Lick the Spoon: Our Very Own Southern California Local Raw Honey][id]**
+
+Originally published here: https://www.bristolfarms.com/blog/2018/10/its-okay-to-lick-the-spoon-our-very-own-southern-california-local-raw-honey/
 
 [id]: https://www.bristolfarms.com/blog/2018/10/its-okay-to-lick-the-spoon-our-very-own-southern-california-local-raw-honey/
