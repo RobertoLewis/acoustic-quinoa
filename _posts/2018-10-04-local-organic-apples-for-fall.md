@@ -6,10 +6,6 @@ categories: [blog]
 image: assets/images/apples-1.jpg
 featured: false
 ---
-A blog post for Bristol Farms.
-
-**[Local, Organic Apples for Fall][id]**
-
 Who doesn't love an apple? As summer fades and the holiday season approaches, we're busy working with our partners and suppliers to bring you a ton of delicious fall-themed produce, and a variety of apples are now in season.
 
 Produce can be tricky.  We're committed to bringing you only the freshest and most flavorful produce, so when we find suppliers who share our values, we stick with them. As a case in point, meet the farmers of **Cuyama Orchards**.
@@ -38,6 +34,8 @@ Crunchy, juicy, and sweet-tart, with a long storage life, the Honeycrisp apple w
 
 A hybrid apple out of New Zealand, the Envy apple has a mouth-friendly character that reveals its Braeburn and Royal Gala parentage. Its sweet crispness makes it ideal for eating raw "out-of-hand," or dicing into a savory meal, like a goat cheese frittata or a stuffed chicken.
 
-https://www.bristolfarms.com/blog/2018/10/local-organic-apples-for-fall/
+**[Local, Organic Apples for Fall][id]**
+
+Originally published here: https://www.bristolfarms.com/blog/2018/10/local-organic-apples-for-fall/
 
 [id]: https://www.bristolfarms.com/blog/2018/10/local-organic-apples-for-fall/
