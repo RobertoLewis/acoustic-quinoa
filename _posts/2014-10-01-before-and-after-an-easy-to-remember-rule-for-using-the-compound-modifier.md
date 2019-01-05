@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Before and After: An Easy-to-Remember Rule for Using the Compound Modifier
+title:  "Before and After: An Easy-to-Remember Rule for Using the Compound Modifier"
 author: roberto
 categories: [ blog ]
-image: assets/images/5.jpg 
-featured: true
+image:  
+featured: false
 ---
 
 Learning the correct way to hyphenate a compound modifier will help you to produce well-written sentences with confidence.
