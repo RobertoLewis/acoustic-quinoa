@@ -6,10 +6,6 @@ categories: [blog]
 image: assets/images/CHEE_FAW_Italian-Charcuterie-2017-2.jpg
 featured: true
 ---
-A blog post for Bristol Farms.
-
-**[Take a Trip Through Taste: Italy Edition][id]**
-
 If you’ve been following along with us as we share a few of our select favorite European cuisines, then chances are you’ve also been anticipating our tasting “arrival” in Italy. Any conversation about Italian culture would feel incomplete without an acknowledgment of its incredible food. The cured and roasted meats like Prosciutto Di Parma and Porchetta, the creamy cheeses like Bufala and Provolone, and the many pastas and wines of Italy are all legendary; and this month we are featuring stellar examples of each. You’ll truly have everything you need to put together a dazzling Italian dinner of your own. Here are just a few of the Italian imports we're excited to share with you.
 
 **Meat, Cheese, and Pasta Imported from Italy...**
@@ -43,9 +39,9 @@ This bold, structured semi-sweet red will shine when paired with beef or venison
 
 A well-balanced, fruity white wine will go well with cured meats and light cheeses. Try it with your Parma Di Prosciutto!
 
+**[Take a Trip Through Taste: Italy Edition][id]**
 
-
-https://www.bristolfarms.com/blog/2018/09/take-a-trip-through-taste-italy-edition/
+Originally published here: https://www.bristolfarms.com/blog/2018/09/take-a-trip-through-taste-italy-edition/
 
 [id]: https://www.bristolfarms.com/blog/2018/09/take-a-trip-through-taste-italy-edition/
 
