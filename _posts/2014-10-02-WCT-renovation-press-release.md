@@ -6,11 +6,6 @@ categories: [ press release ]
 image: 
 featured: false
 ---
-
-**M.I.’s Westside Comedy Theatre Unveils New Bar and Renovated Theater Space**
-
-
-
 **LOS ANGELES** - Mi’s Westside Comedy Theatre (WCT), a performance training center and comedy club located in Santa Monica, announced the completion of its renovation, and the opening of its new bar. 
 
 The newly remodeled performance space has a classic comedy club layout with an industrial feel. It features cabaret-style seating, and a new stage and lighting setup. The bar serves beer and wine, with 29 varieties of bottled beer, and six labels on tap.
