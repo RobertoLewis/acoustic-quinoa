@@ -6,12 +6,6 @@ categories: [blog, food]
 image: assets/images/CHEE_GROUP_Charcuterie_Italy_FAW_2018-03.jpg
 featured: true
 ---
-A blog post for Bristol Farms.
-
-**[Provolone Rediscovered: Don Giovanni Auricchio's Secret Recipe][id]**
-
-*By Roberto Lewis*
-
 In America, we're most used to eating provolone cheese on sandwiches. In fact, we consume giant amounts of it on sandwiches, pizzas, and party trays. However, the type we're accustomed to eating isn't *the provolone* treasured by Italians. Once you've tasted "true" provolone, aged in a cave in northern Italy, you'll feel your vocabulary for Italian cheeses expanding. A car is a car, but a *Ferrari* is a *Ferrari*.
 
 Provolone has been referred to as Italy's national cheese. [Auricchio](http://auricchio.it/), a family-owned Italian cheese-making firm based in Cremona, leads the nation in provolone production. The Provolone Auricchio debuted in 1877, its signature flavor attributed to its proprietary rennet blend referred to as the "secret of Don Gennaro," after Gennaro Auricchio, the company's founder. Today, Auricchio credits the popularity of its product line to "ancient customs adapted to present day, yet preserved in quiet awareness..."
@@ -24,6 +18,8 @@ The Dolce, a younger, sweeter cheese, has a gentle, milkier flavor, and will fun
 
 The Gustoso has a soft texture and a spicier flavor than its siblings. It will work well served on bruschetta, or as a fondue.
 
-https://www.bristolfarms.com/blog/2018/10/provolone-rediscovered-don-giovanni-auricchios-secret-recipe/
+**[Provolone Rediscovered: Don Giovanni Auricchio's Secret Recipe][id]**
+
+Originally published here: https://www.bristolfarms.com/blog/2018/10/provolone-rediscovered-don-giovanni-auricchios-secret-recipe/
 
 [id]: https://www.bristolfarms.com/blog/2018/10/provolone-rediscovered-don-giovanni-auricchios-secret-recipe/
