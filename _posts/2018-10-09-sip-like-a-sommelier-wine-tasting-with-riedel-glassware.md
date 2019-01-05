@@ -6,10 +6,6 @@ categories: [blog]
 image: assets/images/Wine-hands-and-glasses-.jpg
 featured: false
 ---
-A blog post for Bristol Farms.
-
-**[Sip Like A Sommelier: Wine Tasting with Riedel Glassware][id]**
-
 What if you could enhance the flavors of your favorite wines?
 
 What if you could taste delicious high-end wines, pair them with wonderful foods, learn a ton, and go home with a set of crystal wine glasses that are not only attractive but are designed specifically to delight your taste buds?
@@ -42,6 +38,8 @@ The wine tasting events will take place at the following locations and times:
 
 For more information on the Performance Series, [visit the Riedel site](https://www.riedel.com/en-us/features-promotions/collections/machine-made/riedel-performance).
 
-https://www.bristolfarms.com/blog/2018/10/sip-like-a-sommelier-wine-tasting-with-riedel-glassware/
+**[Sip Like A Sommelier: Wine Tasting with Riedel Glassware][id]**
+
+Originally published here: https://www.bristolfarms.com/blog/2018/10/sip-like-a-sommelier-wine-tasting-with-riedel-glassware/
 
 [id]: https://www.bristolfarms.com/blog/2018/10/sip-like-a-sommelier-wine-tasting-with-riedel-glassware/
