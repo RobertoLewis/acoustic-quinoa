@@ -1,12 +1,10 @@
 ---
-​---
 layout: post
 title:  "It Will Happen To You Someday"
 author: roberto
 categories: [ blog ]
 image: 
 featured: false
-​---
 ---
 
 We are taught, correctly, to support our teammates onstage, and off. Even if the reasoning behind their choice might not be clear to us in the moment, we are taught to embrace it, add to it, and make that choice the best version of itself it can be.
