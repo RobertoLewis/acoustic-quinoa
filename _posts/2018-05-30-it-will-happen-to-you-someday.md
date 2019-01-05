@@ -36,7 +36,6 @@ At this point, your job is to figure out what happened, and then make it right. 
 If you are lucky, your teammates will respond with kindness and will help you win back your audience. They’ll help you because they know that you will help them when it’s their turn.
 
 
-
 **[It Will Happen To You Someday][id]**
 
 Originally published here: http://www.halfcircleofdeath.com/2018/05/30/it-will-happen-to-you-someday/
