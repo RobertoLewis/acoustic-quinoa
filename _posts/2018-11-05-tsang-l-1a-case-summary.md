@@ -3,7 +3,7 @@ layout: post
 title:  "Tsang & Associates: L-1A Success Story" 
 author: roberto
 categories: [case summary]
-image:
+image: assets/images/architectural-design-architecture-building-443383.jpg
 featured: false 
 ---
 
