@@ -3,7 +3,7 @@ layout: post
 title:  "Get Your Gadolinium Clients Tested and Documented in a Week"
 author: roberto
 categories: [email campaign]
-image:
+image: assets/images/pexels-photo-954584-tubes.jpeg
 featured: false
 ---
 
